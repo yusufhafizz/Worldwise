@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Cortes de Arenoso",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-16T10:05:36.765Z",
+      "notes": "",
+      "position": {
+        "lat": "40.16418235037417",
+        "lng": "-0.48889160156250006"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Jintur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-05-17T09:04:32.653Z",
+      "notes": "",
+      "position": {
+        "lat": "19.766703551716976",
+        "lng": "76.5966796875"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Wuhan",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2024-05-17T09:04:46.815Z",
+      "notes": "",
+      "position": {
+        "lat": "30.500750980290693",
+        "lng": "114.35668945312501"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Mulshi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-05-19T16:05:41.621Z",
+      "notes": "",
+      "position": {
+        "lat": "18.536908560288477",
+        "lng": "73.54797363281251"
+      },
+      "id": 4
+    }
+  ]
+}
